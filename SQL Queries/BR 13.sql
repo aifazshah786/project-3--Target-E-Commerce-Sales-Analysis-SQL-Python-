@@ -1,6 +1,5 @@
 ## Business Requirement
-** Calculate the cumulative sales per month for each year.**
-
+**Calculate the cumulative sales per month for each year.**
 
 	SELECT 
     YEAR(o.order_purchase_timestamp) AS Year,
